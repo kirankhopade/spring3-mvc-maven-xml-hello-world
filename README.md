@@ -1,1 +1,2 @@
-# spring3-mvc-maven-xml-hello-world
+# TestHosting
+This project is related to uploading eclipse web application to GITHUB
